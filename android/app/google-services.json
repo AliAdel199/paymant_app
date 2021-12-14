@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169784826667",
+    "project_id": "paymant-5bde2",
+    "storage_bucket": "paymant-5bde2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169784826667:android:c5aae622ac5417c599836e",
+        "android_client_info": {
+          "package_name": "com.aliadel.paymantapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169784826667-fd252el0rfd2ph8r19qqq2dnvrkei8rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ_StSxhpvJCrGcm05WrgAcdmKu3TkTOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169784826667-fd252el0rfd2ph8r19qqq2dnvrkei8rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
