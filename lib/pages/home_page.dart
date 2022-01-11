@@ -239,7 +239,7 @@ if(mounted){
                                       _context,
                                       MaterialPageRoute(
                                           builder: (context) =>
-                                          const    MySample()),
+                                          const    MyCreditsPage()),
                                     );
                                   }),
                                   const  SizedBox(
