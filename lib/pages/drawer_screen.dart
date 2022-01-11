@@ -1,4 +1,5 @@
 
+ 
  import '../models/model.dart';
 
 import '../pages/last_transfer_page.dart';
@@ -99,7 +100,7 @@ class _DrawerScreenState extends State<DrawerScreen> {
                 ),
                 "بطاقاتي",
                 () => Navigator.of(context).push(
-                  MaterialPageRoute(builder: (context) =>const MySample()),
+                  MaterialPageRoute(builder: (context) =>const MyCreditsPage()),
                 ),
               ),
               const SizedBox(
